@@ -1,0 +1,45 @@
+.menu{
+             
+
+              font-size: 20px;
+             padding: 15px;
+             font-style: italic;
+              font-weight: 200;
+            
+
+}
+body{
+              margin: 0px;
+              background-color: #ffffff;
+}
+.grid{
+              justify-content: space-between;
+              display: flex;
+              flex-wrap: wrap;
+              font-style: italic;
+              border: 5px solid black;
+              border-radius: 10px;
+         
+              
+}
+.origami{
+              border-radius: 10px;
+              background-color: white;
+              padding: 30px;
+              margin: 25px;
+              width: 350px;
+              font-family: fantasy;
+              font-style: italic;
+              font-size: 15px;
+              font-weight: 200;
+}
+.aboutme{
+              font-style: italic;
+              font-size: 15px;
+              font-weight: 60;
+}
+.bodyImage{
+              font-style: italic;
+              font-size: 15px;
+              font-weight: 60; 
+}
